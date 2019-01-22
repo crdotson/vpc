@@ -34,7 +34,7 @@ For more information, including examples of how to provision a VSI with security
 Each VPC has a default group, with rules to allow:
 
 * Inbound traffic from all other members of the group.
-* Outbound traffic from all other members of the group.
+* Outbound traffic to all other members of the group.
 * Inbound SSH traffic from everywhere.
 * Inbound ping traffic from everywhere.
 
